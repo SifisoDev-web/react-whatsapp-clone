@@ -25,3 +25,18 @@ You can send messages (text only), but there is no backend, no real-time messagi
 Clone the repository:
 ```bash
 git clone https://github.com/SifisoDev-web/react-whatsapp-clone.git
+
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the development server:
+
+bash
+Copy
+Edit
+npm start
+Runs on:
+http://localhost:3000
