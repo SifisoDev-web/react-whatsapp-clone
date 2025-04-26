@@ -22,13 +22,17 @@ CSS3
 
 HTML5
 
+
+## 📸 Demo
+[Check out the repository](https://github.com/SifisoDev-web/react-whatsapp-clone)
+
 📦 Installation
 Clone the repository:
 
 bash
 Copy
 Edit
-git clone https://github.com/your-username/react-whatsapp-clone.git
+git clone https://github.com/SifisoDev-web/react-whatsapp-clone.git
 Install dependencies:
 
 bash
