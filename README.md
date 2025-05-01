@@ -8,7 +8,7 @@ You can send messages (text only), but there is no backend, no real-time messagi
 - WhatsApp Web inspired UI
 - Send your own text messages
 - Display of chats, timestamps, and unread counts
-- Responsive layout (desktop + mobile)
+- Responsive layout (desktop  )
 - Clean component-based React structure
 
 ## 🚀 Tech Stack
